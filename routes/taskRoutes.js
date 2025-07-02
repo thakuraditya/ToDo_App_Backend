@@ -1,5 +1,4 @@
 import express from "express";
-import mongoose from "mongoose";
 import Task from "../models/Tasks.js";
 
 const router = express.Router();
